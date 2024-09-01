@@ -1,0 +1,5 @@
+# Ignorar arquivos de configuração
+.env
+# Ignorar pastas de testes
+erratas/
+python/
